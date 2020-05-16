@@ -19,3 +19,4 @@ class Post
     author.name
 else
 end
+end 
