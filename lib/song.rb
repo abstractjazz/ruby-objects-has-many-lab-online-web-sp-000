@@ -15,7 +15,8 @@ def self.all
 
 def artist_name
 if artist
-  artist.name 
+  artist.name
+else 
     end
   end
 
