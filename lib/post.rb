@@ -18,5 +18,6 @@ class Post
  if author
     author.name
 else
+  end
 end
 end 
